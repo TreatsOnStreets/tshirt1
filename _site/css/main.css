@@ -20,7 +20,7 @@ a {
   transition: all 0.35s;
   color: #030202; }
   a:hover, a:focus {
-    color: #eb3812; }
+    color: #FFFFFF; }
 
 h1,
 h2,
@@ -105,7 +105,7 @@ aside {
           color: #030202;
           font-size: 14px; }
           .navbar-default.affix .navbar-header .navbar-brand:hover, .navbar-default.affix .navbar-header .navbar-brand:focus {
-            color: #eb3812; }
+            color: #FFFFFF; }
         .navbar-default.affix .nav > li > a,
         .navbar-default.affix .nav > li > a:focus {
           color: #222; }
