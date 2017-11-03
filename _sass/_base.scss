@@ -70,6 +70,8 @@ aside {
 // Navigation
 
 .navbar-default {
+    max-width: 80em;
+    margin: auto;
     background-color: white;
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
@@ -91,9 +93,9 @@ aside {
                 text-transform: uppercase;
                 font-weight: 700;
                 font-size: 13px;
-                color: $theme-dark;
+                color: $theme-primary;
                 &:hover {
-                    color: $theme-primary;
+                    color: darken($theme-primary, 10%);
                 }
             }
             &.active {
@@ -109,25 +111,24 @@ aside {
         }
     }
     @media (min-width: 768px) {
-        background-color: transparent;
-        border-color: rgba(white, .3);
+        border-color: rgba($theme-dark, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: $theme-primary;
             &:hover,
             &:focus {
-                color: white;
+                color: darken($theme-primary, 10%);
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: $theme-primary;
             &:hover {
-                color: white;
+                color: darken($theme-primary, 10%);
             }
         }
         &.affix {
-            background-color: white;
-            border-color: rgba($theme-dark, .5);
+            background-color: $theme-primary;
+            border-color: rgba($theme-primary, .5);
             .navbar-header .navbar-brand {
                 color: $theme-primary;
                 font-size: 14px;
@@ -155,9 +156,9 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-color: $background-color;
+    color: $text-color;
     text-align: center;
-    color: white;
     .header-content {
         position: relative;
         text-align: center;
@@ -175,7 +176,7 @@ header {
             }
             p {
                 font-weight: 300;
-                color: rgba(white, .7);
+		color: $text-color;
                 font-size: 16px;
                 margin-bottom: 50px;
             }
@@ -202,85 +203,6 @@ header {
                 }
             }
         }
-    }
-}
-
-// Sections
-
-.section-heading {
-    margin-top: 0;
-}
-
-.service-box {
-    max-width: 400px;
-    margin: 50px auto 0;
-    @media (min-width: 992px) {
-        margin: 20px auto 0;
-    }
-    p {
-        margin-bottom: 0;
-    }
-}
-
-.portfolio-box {
-    position: relative;
-    display: block;
-    max-width: 650px;
-    margin: 0 auto;
-    .portfolio-box-caption {
-        color: white;
-        opacity: 0;
-        display: block;
-        background: rgba( $theme-primary, .9 );
-        position: absolute;
-        bottom: 0;
-        text-align: center;
-        width: 100%;
-        height: 100%;
-        @include transition-all;
-        .portfolio-box-caption-content {
-            width: 100%;
-            text-align: center;
-            position: absolute;
-            top: 50%;
-            transform: translateY(-50%);
-            .project-category,
-            .project-name {
-                @include sans-serif-font;
-                padding: 0 15px;
-            }
-            .project-category {
-                text-transform: uppercase;
-                font-weight: 600;
-                font-size: 14px;
-            }
-            .project-name {
-                font-size: 18px;
-            }
-        }
-    }
-    &:hover {
-        .portfolio-box-caption {
-            opacity: 1;
-        }
-    }
-    @media (min-width: 768px) {
-        .portfolio-box-caption {
-            .portfolio-box-caption-content {
-                .project-category {
-                    font-size: 16px;
-                }
-                .project-name {
-                    font-size: 22px;
-                }
-            }
-        }
-    }
-}
-
-.call-to-action {
-    h2 {
-        margin: 0 auto 20px;
     }
 }
 
@@ -349,3 +271,15 @@ body {
     -webkit-tap-highlight-color: $theme-dark;
 }
 
+header img {
+    width: 90%;
+    max-width: 30em;
+    margin-top: 3em;
+}
+
+body {
+    margin: 80px auto;
+    max-width: 80em;
+    padding: 0 .62rem;
+    font-size: 1.2rem;
+}
