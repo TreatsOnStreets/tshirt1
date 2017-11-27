@@ -3,14 +3,31 @@ layout: page
 ---
 
 # NEWEST PROJECT
-this is *our* newest __project__
-Lorem ipsum dolor sit amet, numquam inermis cum et, legere consetetur ei mea. Mucius moderatius scriptorem at eos, nam ad essent numquam nominati. Feugiat accusam deterruisset at sea. Sumo munere facete ad sit, vim exerci possit essent ei.
 
-## Testing
-No postea suavitate pri, an pericula scribentur pro. Ex eos mazim lobortis instructior, in lorem impedit consulatu qui, et atqui putent per. Ut sit nostrum deserunt pertinax, mel te quis detracto, natum inani feugait his ei. Ut utinam legere ullamcorper mel, et eos cetero appareat referrentur, etiam simul liberavisse mea et. Ad eos mazim diceret postulant, ad reque aliquip oporteat eum. Te mei veri populo vocent, solum lobortis antiopam ei ius.
+Email us at support@weartappariel.com
 
-At sed oporteat volutpat. No sed discere ponderum quaestio, mea ex elitr dolore latine. Exerci suavitate voluptatum an vel, justo altera eum ut. Nam inciderint neglegentur comprehensam in, eu laudem alterum ius.
+Find us on instagram at 
 
-Eam ei tempor ridens ancillae. Eu quando nemore quo, ea pro euripidis urbanitas. Corpora democritum reprehendunt mei at, pri at magna probatus repudiare, id graece maiestatis complectitur duo. Ne commodo democritum sit, ad qui virtute accumsan liberavisse, eu putant gubergren efficiendi usu. Ea debet aeque has, quot mandamus repudiare sea ea, ea est audire integre laboramus.
+If you are a young artist and would like to apply to be a part of our next project, please fill out the form below and we will get back to you to inquire about your work.
+<section>	
+    <h4>Artist Form</h4>
+    <form class="form-inline" action="mailto:support@weartapparel.com" method="post" enctype="text/plain">
+        <div class="form-group">
+            <label>First name</label>
+            <input class="form-control" type="text" name="demo-firstname" id="demo-firstname" placeholder="First Name">
+        </div>
+        <div class="form-group">
+            <label>Last Name</label>
+            <input class="form-control" type="text" name="demo-lastname" id="demo-lastname" value="" placeholder="Last Name" />
+        </div>
+        <div class="form-group">
+            <label>Email</label>
+            <input class="form-control" type="text" name="demo-email" id="demo-email" value="" placeholder="Email" />
+        </div>
+        <div class="form-group">
+            <label>Phone Number</label>
+            <input class="form-control" type="text" name="demo-phonenumber" id="demo-phonenumber" value="" placeholder="Phone Number" />
+        </div>
+         <button type="button" class="btn btn-default btn-lg btn-block">Submit Form</button>
 
-Vim magna recteque interpretaris ut, admodum corrumpit ullamcorper quo in, vel ne melius viderer. Mea eu quaerendum persequeris. Volumus imperdiet constituto ad mea. Ei labitur meliore legendos eam, mazim errem eligendi ad vel. Eu suas sint viris eum. Eum consul dissentiet eu, per dicta latine aliquid ne. Et noster detraxit volutpat vis, sea no decore labitur, mea alii summo sadipscing id.
+
