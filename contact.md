@@ -2,11 +2,13 @@
 layout: page 
 ---
 
-# NEWEST PROJECT
+# __CONTACT US__
 
-Email us at support@weartappariel.com
+<button type="button" class="btn btn-default btn-lg" href="https://www.instagram.com/weart_apparel/"><i class="fa fa-instagram" aria-hidden="true"></i></button>weart_apparel
 
-Find us on instagram at 
+<button type="button" class="btn btn-default btn-lg" href="https://www.facebook.com/weartapparel/"><i class="fa fa-facebook" aria-hidden="true"></i></button>weart
+
+<button type="button" class="btn btn-default btn-lg"><i class="fa fa-envelope" aria-hidden="true"></i></button>support@weartappreal.com
 
 If you are a young artist and would like to apply to be a part of our next project, please fill out the form below and we will get back to you to inquire about your work.
 <section>	
