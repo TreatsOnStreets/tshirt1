@@ -7,9 +7,9 @@ layout: page
 	
 <img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p117_orig.png" class="img-responsive" alt="" style="width: 250px;"/>
 <img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p110.png" class="img-responsive" alt="" style="width: 250px;"/>
-<img src="" class="img-responsive" alt="">
-<img src="" class="img-responsive" alt="">
-<img src="" class="img-responsive" alt="">
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p121_orig.png" class="img-responsive" alt="" style="width: 250px;"/>
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p122_orig.png" class="img-responsive" alt="" style="width: 250px;"/>
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p126.png" class="img-responsive" alt="" style="width:" 250px;"/>
 
 
 __Q: How did you get into art?__
