@@ -2,10 +2,11 @@
 layout: page
 ---
 
-# PURCHASE A SHIRT
+# __PURCHASE A SHIRT__
 
 <section>
-    <h4>Order Form</h4>
+    <h4>ORDER SHIRT - PROJECT #1<h4>
+
     <form class="form-inline" action="mailto:support@weartapparel.com" method="post" enctype="text/plain">
         <div class="form-group">
 	    <label>First name</label>
@@ -48,24 +49,23 @@ layout: page
 		<option>Extra Small</option>
 		<option>Small</option>
 		<option>Medium</option>
-		<optoin>Large</option>
+		<option>Large</option>
 	    </select>
-       <label>Shirt #4 Size</label>
-       <select class="form-control">
+        <label>Shirt #4 Size</label>
+        <select class="form-control">
                 <option>Only 3 Shirts</option>
                 <option>Extra Small</option>
                 <option>Small</option>
                 <option>Medium</option>
-                <optoin>Large</option>
-            </select>
-       <label>Shirt #5 Size</label>
-       <select class="form-control">
+                <option>Large</option>
+	    </select>
+        <label>Shirt #5 Size</label>
+        <select class="form-control">
                 <option>Only 4 Shirts</option>
                 <option>Extra Small</option>
                 <option>Small</option>
                 <option>Medium</option>
-                <optoin>Large</option>
-            </select>
+                <option>Large</option>
 	<div class="checkbox">
 	        <label>
 		   <input type="checkbox" value"">
