@@ -75,7 +75,7 @@ layout: page
         <div class="form-group">
             <label for="inputshirt23" class="col-sm-2 control-label">Shirt #2</label>
             <div class="col-sm-10">
-            <select name="firstshirt" class="form-control">
+            <select name="secondshirt" class="form-control">
 		<option></option>
                 <option>Extra Small</option>
                 <option>Small</option>
@@ -88,7 +88,7 @@ layout: page
         <div class="form-group">
             <label for="inputshirt33" class="col-sm-2 control-label">Shirt #3</label>
             <div class="col-sm-10">
-            <select name="firstshirt" class="form-control">										                          <option></option>
+            <select name="thirdshirt" class="form-control">	  			                             <option></option>
                 <option>Extra Small</option>
                 <option>Small</option>
                 <option>Medium</option>
@@ -100,7 +100,7 @@ layout: page
         <div class="form-group">
             <label for="inputshirt43" class="col-sm-2 control-label">Shirt #4</label>
             <div class="col-sm-10">
-            <select name="firstshirt" class="form-control">
+            <select name="fourthshirt" class="form-control">
                 <option></option>
 		<option>Extra Small</option>
                 <option>Small</option>
@@ -113,7 +113,7 @@ layout: page
         <div class="form-group">
             <label for="inputshirt53" class="col-sm-2 control-label">Shirt #5</label>
             <div class="col-sm-10">
-            <select name="firstshirt" class="form-control">
+            <select name="fifthshirt" class="form-control">
                 <option></option>
 		<option>Extra Small</option>
                 <option>Small</option>
@@ -130,7 +130,19 @@ layout: page
                 </label>
         </div>
         <div>
-         <textarea class="form-control" name="message" rows="3">Optional Message</textarea>
+        <div class="form-group">
+	<textarea class="form-control" name="message" rows="3">Optional Message</textarea>
          </div>
+	</div>
+	<div>
+	<div class="form-group">
 	<button type="submit" class="btn btn-default btn-lg btn-block">Submit Form</button>
-
+	</div>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </div>
+</form>
