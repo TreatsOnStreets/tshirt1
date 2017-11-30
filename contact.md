@@ -4,11 +4,11 @@ layout: page
 
 # __CONTACT US__
 
-<button type="button" class="btn btn-default btn-lg" href="https://www.instagram.com/weart_apparel/"><i class="fa fa-instagram" aria-hidden="true"></i></button>weart_apparel
+<a href="https://www.instagram.com/weart_apparel/?hl=en" type="button" class="btn btn-default btn-lg"><i class="fa fa-instagram" aria-hidden="true"></i></a>weart_apparel
 
-<button type="button" class="btn btn-default btn-lg" href="https://www.facebook.com/weartapparel/"><i class="fa fa-facebook" aria-hidden="true"></i></button>weart
+<a href="https://m.facebook.com/profile.php?id=1841512439255502&ref=content_filter" type="button" class="btn btn-default btn-lg"><i class="fa fa-facebook" aria-hidden="true"></i></a>weart
 
-<button type="button" class="btn btn-default btn-lg"><i class="fa fa-envelope" aria-hidden="true"></i></button>support@weartappreal.com
+<a href="malito:support@weartapparel.com" type="button" class="btn btn-default btn-lg"><i class="fa fa-envelope" aria-hidden="true"></i></a>support@weartappreal.com
 
 If you are a young artist and would like to apply to be a part of our next project, please fill out the form below and we will get back to you to inquire about your work.
 <section>	
@@ -30,6 +30,12 @@ If you are a young artist and would like to apply to be a part of our next proje
             <label>Phone Number</label>
             <input class="form-control" type="text" name="demo-phonenumber" id="demo-phonenumber" value="" placeholder="Phone Number" />
         </div>
-         <button type="button" class="btn btn-default btn-lg btn-block">Submit Form</button>
+	<div>
+        <div class="form-group">
+            <label for="exampleInputFile">One piece you would put on a shirt</label>
+            <input type="file" id="exampleInputFile">
+            <p class="help-block"></p>
+        </div>
+         <button type="submit" class="btn btn-default btn-lg btn-block">Submit Form</button>
 
 

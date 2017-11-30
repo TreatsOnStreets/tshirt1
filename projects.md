@@ -4,14 +4,13 @@ layout: page
 
 # __PROJECT #1 - 12.1.2018__
 ### GABBY WELD, SEINOR AT MPLS SOUTHWEST
-	
-<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p117_orig.png" class="img-responsive" alt="" style="width: 250px;"/>
-<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p110.png" class="img-responsive" alt="" style="width: 250px;"/>
-<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p121_orig.png" class="img-responsive" alt="" style="width: 250px;"/>
-<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p122_orig.png" class="img-responsive" alt="" style="width: 250px;"/>
-<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p126.png" class="img-responsive" alt="" style="width: 250px;"/>
-<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p87.png" class="img-responsive" alt="" style="width: 250px;"/>
 
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p117_orig.png" class="img-responsive" alt="" style="width: 200px;"/>
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p110.png" class="img-responsive" alt="" style="width: 200px;"/>
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p121_orig.png" class="img-responsive" alt="" style="width: 200px;"/>
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p122_orig.png" class="img-responsive" alt="" style="width: 200px;"/>
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p126.png" class="img-responsive" alt="" style="width: 200px;"/>
+<img src="https://gabbyweldart.weebly.com/uploads/9/9/3/3/99339840/p87.png" class="img-responsive" alt="" style="width: 200px;"/> 
 
 __Q: How did you get into art?__
 A: Well, my grandpa was an artist. When I was little I would go to his house and go down to his studio and just look at everything. Looking back at it now you can really see his art in mine because of the importance of line in both of our work. When I was younger I would copy his signature onto the bottom of my pieces that I would make to look like his. But I didn’t start taking art seriously until sophomore/junior year when I took art classes at Southwest.
