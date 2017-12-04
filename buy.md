@@ -123,6 +123,20 @@ layout: page
          </div>
         </div>
         <div>
+	<label class="radio-inline">
+	    <input type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
+	    Torsten is giving it to me
+	    </label>
+	<label class="radio-inline">
+	    <input type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
+	    Delivery in the Twin Cities
+	    </label>
+	<label class="radio-inline">
+	    <input type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
+	    Delivery out of Twin Cities
+	    </label>
+	 </div>
+	</div>
     <h4>Card Information<h4>
 <form class="form-horizontal" action="mailto:support@weartapparel.com" method="post" enctype="text/plain">
         <div class="form-group">
@@ -135,7 +149,7 @@ layout: page
         <div class="form-group">
             <label for="inputnamecard3" class="col-sm-2 control-label">Name on Card</label>
             <div class="col-sm-10">
-            <input class="form-control" type="text" name="email" id="nameoncard" value="" placeholder="Leonardo DaVinci" />
+            <input class="form-control" type="text" name="nameoncard" id="nameoncard" value="" placeholder="Leonardo da Vinci" />
          </div>   
         </div>
         <div class="form-group">
