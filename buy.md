@@ -123,6 +123,40 @@ layout: page
          </div>
         </div>
         <div>
+    <h4>Card Information<h4>
+<form class="form-horizontal" action="mailto:support@weartapparel.com" method="post" enctype="text/plain">
+        <div class="form-group">
+	    <label for="inputcard3" class="col-sm-2 control-label">Card Type</label>
+            <div class="btn-group pull-middle">
+            <button class="btn btn-default active"><i class="fa fa-2x fa-cc-visa"></i></button>
+            <button class="btn btn-default"><i class="fa fa-2x fa-cc-mastercard"></i></button>
+         </div>
+        </div>
+        <div class="form-group">
+            <label for="inputnamecard3" class="col-sm-2 control-label">Name on Card</label>
+            <div class="col-sm-10">
+            <input class="form-control" type="text" name="email" id="nameoncard" value="" placeholder="Leonardo DaVinci" />
+         </div>   
+        </div>
+        <div class="form-group">
+            <label for="inputexpiration3" class="col-sm-2 control-label">Expiration Date</label>
+            <div class="col-sm-10">
+            <input class="form-control" type="text" name="expirationdate" id="demo-expirationdate" value="" placeholder="MM/YY" />
+         </div>
+        </div>
+        <div class="form-group">
+            <label for="inputnumber3" class="col-sm-2 control-label">Card Number</label>
+            <div class="col-sm-10">
+            <input class="form-control" type="text" name="cardnumber" id="demo-cardnumber" value="" placeholder="0000 0000 0000 0000" />
+         </div>
+        </div>
+	<div class="form-group">
+	    <label for="inputcvv3" class="col-sm-2 control-label">CVV</label>
+	    <div class="col-sm-10">
+	    <input class="form-control" type="text" name="cvv" id="demo-cvv" value="" placeholder="000" />
+	 </div>	
+	</div>
+	<div>
         <div class="checkbox-inline">
                 <label>
                    <input type="checkbox" value="">
@@ -139,10 +173,3 @@ layout: page
 	<button type="submit" class="btn btn-default btn-lg btn-block">Submit Form</button>
 	</div>
        </div>
-      </div>
-     </div>
-    </div>
-   </div>
-  </div>
- </div>
-</form>
