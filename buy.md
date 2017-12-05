@@ -9,7 +9,7 @@ layout: page
 	<div> *this form will direct you to an email after you have submitted, send the email to recieve your shirt(s)*
     <h4> <h4>
 <form class="form-horizontal" action="mailto:support@weartapparel.com" method="post" enctype="text/plain">
-        <div class="form-group">
+       <div class="form-group">
             <label for="inputfn3" class="col-sm-2 control-label">First Name</label>
 	    <div class="col-sm-10">
             <input class="form-control" type="text" name="firstname" id="demo-firstname" placeholder="First Name">
@@ -43,7 +43,57 @@ layout: page
 	    <label for="inputstate3" class="col-sm-2 control-label">State</label>
             <div class="col-sm-10">
             <select name="state" class="form-control">
-               <option>MN</option>
+		<option></option>
+		<option>AL</option>
+                <option>AK</option>
+                <option>AZ</option>
+                <option>AR</option>
+                <option>CA</option>
+                <option>CO</option>
+                <option>CT</option>
+                <option>DE</option>
+                <option>FL</option>
+                <option>GA</option>
+                <option>HI</option>
+                <option>ID</option>
+                <option>IL</option>
+                <option>IN</option>
+                <option>IA</option>
+                <option>KS</option>
+                <option>KY</option>
+                <option>LA</option>
+                <option>ME</option>
+                <option>MD</option>
+                <option>MA</option>
+                <option>MI</option>
+                <option>MN</option>
+                <option>MS</option>
+                <option>MO</option>
+                <option>MT</option>
+                <option>NE</option>
+                <option>NV</option>
+                <option>NH</option>
+                <option>NJ</option>
+                <option>NM</option>
+                <option>NY</option>
+                <option>NC</option>
+                <option>ND</option>
+                <option>OH</option>
+                <option>OK</option>
+                <option>OR</option>
+                <option>PA</option>
+                <option>RI</option>
+                <option>SC</option>
+                <option>SD</option>
+                <option>TN</option>
+                <option>TX</option>
+                <option>UT</option>
+                <option>VT</option>
+                <option>VA</option>
+                <option>WA</option>
+                <option>WV</option>
+                <option>WI</option>
+                <option>WY</option>
             </select>
 	 </div>
 	</div>
